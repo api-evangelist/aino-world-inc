@@ -1,7 +1,28 @@
 aid: aino-world-inc
 name: Aino World Inc.
-description: Aino World Inc. is a company surfaced as a portfolio company of 500-global and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Aino World Inc. builds Aino, an AI-powered spatial analytics platform for
+  architecture, urban planning, and real estate development teams. Aino
+  automates site research by pulling zoning, parcel, transit, demographic, and
+  environmental data from 10+ sources (Google Maps, Regrid, Rentcast,
+  OpenStreetMap, Overture Maps, Microsoft Planetary Computer, Kontur.io, and the
+  US Census), runs GIS-free spatial analysis, and generates presentation-ready
+  maps and dashboards inside a shared, collaborative workspace. Coverage spans
+  400+ cities with thousands of reusable data layers and CAD/GeoJSON (DXF)
+  exports. Backed by 500 Global. Programmatic API access is offered on the
+  enterprise Business tier.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/images/7vnYOIbPRwODInaAzUvTifKAEY8.png
 url: https://raw.githubusercontent.com/api-evangelist/aino-world-inc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,6 +35,15 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Spatial Analytics
+- Geospatial
+- GIS
+- Mapping
+- Location Intelligence
+- Urban Planning
+- Real Estate
+- Artificial Intelligence
+- Data
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +51,30 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/aino-world-inc-domain-security.yml
 - type: Website
   url: https://aino.world
+- type: SignUp
+  url: https://app.aino.world
+- type: Pricing
+  url: https://aino.world/pricing
+- type: TermsOfService
+  url: https://aino.world/tos/terms-of-service
+- type: PrivacyPolicy
+  url: https://aino.world/tos/privacy-policy
+- type: Blog
+  url: https://medium.com/aino-world
+- type: Support
+  url: https://join.slack.com/t/aino-agents/shared_invite/zt-3sewq187l-6wRo~qYGcIBwE7Cjwsoj3w
+- type: LinkedIn
+  url: https://www.linkedin.com/company/ainotech/
+- type: Twitter
+  url: https://x.com/aino_world
+- type: YouTube
+  url: https://www.youtube.com/@aino-world
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
