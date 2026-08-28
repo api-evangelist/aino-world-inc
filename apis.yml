@@ -11,6 +11,17 @@ description: >-
   400+ cities with thousands of reusable data layers and CAD/GeoJSON (DXF)
   exports. Backed by 500 Global. Programmatic API access is offered on the
   enterprise Business tier.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
