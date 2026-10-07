@@ -1,0 +1,54 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.aino.world/pricing
+sources:
+- https://www.aino.world/pricing
+- https://aino.world/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed+licensed
+  method: page
+  read: '2026-10-07'
+  evidence: On-premise & data residency
+  managed_tier: Pro
+published: true
+note: Tiered SaaS pricing for spatial analysis platform; Enterprise tier is custom/contact sales and mentions
+  on-premise option.
+plan_count: 4
+currency: USD
+plans:
+- name: Students & educators
+  price_text: $24/month
+  price: 24
+  currency: USD
+  period: month
+  unit: account with valid .edu email
+  included_quota: Full access to Aino
+- name: Pro
+  price_text: $60 /month
+  price: 60
+  currency: USD
+  period: month
+  unit: 1 seat
+  included_quota: 100 AI credits / mo; open data; dataset limit 200 mb
+- name: Teams
+  price_text: $360 /month
+  price: 360
+  currency: USD
+  period: month
+  unit: unlimited seats
+  included_quota: 500 AI credits / mo; premium data; dataset limit 500 mb
+- name: Enterprise
+  price_text: Custom
+  period: none
+  included_quota: Volume-based AI credits, custom seats, on-premise & data residency, SSO, MCP
+rate_limit_statements:
+- 100 AI credits / mo
+- 500 AI credits / mo
+- Dataset limit, mb 200 500 Custom
