@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aino World Inc Domain Security](https://apis.io/security/aino-world-inc/aino-world-inc-domain-security/)
+- [Aino World Domain Security](https://apis.io/security/aino-world-inc/aino-world-inc-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aino World Inc Plans Pricing](https://apis.io/plans/aino-world-inc/aino-world-inc-plans-pricing/)
+- [Aino World Plans Pricing](https://apis.io/plans/aino-world-inc/aino-world-inc-plans-pricing/)
 
 ## Where to find this API
 
@@ -102,7 +102,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 18.5** — emerging · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 16.1** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -111,9 +111,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 63.2 |
+| Access clarity | 55.3 |
 
-**Agent readiness 0.0** — human-only
+**Agent readiness 0.7** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -136,8 +136,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aino-world-inc/](https://apis.io/providers/aino-world-inc/).
 
